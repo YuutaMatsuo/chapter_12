@@ -5,4 +5,8 @@ public abstract class Character {
 	int hp;
 	
 	public abstract void attack();
+	
+//	public void attack() {
+//		System.out.println("キャラクターの攻撃！");
+//	}
 }
